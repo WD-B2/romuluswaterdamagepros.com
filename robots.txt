@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://romuluswaterdamagepros.com/sitemap.xml
